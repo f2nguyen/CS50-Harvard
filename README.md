@@ -3,6 +3,8 @@ Collections of problem sets in CS50 course solved by me
 
 Link to course: [Here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
+All pieces of code uploaded have passed 100% tests from check50. However, I'm still looking for some comments/ suggestions to optimize them. 
+
 | **Problem Set**  |**Topic**|**Language**|
 |------------------|---------|:------------:|
 |   Problem Set 1  |     C   |      C     |
