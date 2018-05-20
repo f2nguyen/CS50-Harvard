@@ -1,6 +1,8 @@
 # CS50-Harvard
 Collections of problem sets in CS50 course solved by me
 
+Link to course: [Here](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
 | **Problem Set**  |**Topic**|**Language**|
 |------------------|---------|:------------:|
 |   Problem Set 1  |     C   |      C     |
